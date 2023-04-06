@@ -41,7 +41,6 @@
 				response.sendRedirect("signup.jsp");
 			}
 			
-			
 		} catch(Exception e) {
 			e.printStackTrace();
 		} finally {
